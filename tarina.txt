@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 olipa kerran pieni musta koira nimeltä jackson
+=======
+olipa kerran pieni koira nimeltä jackson, joka oli ihana
+>>>>>>> Stashed changes
