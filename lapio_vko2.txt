@@ -1,3 +1,3 @@
 tämä on lapio toinen viikko +1
 
-uusi rivi tekstiä
+uusi rivi tekstiä terveisiä mun koneelta
